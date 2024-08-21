@@ -163,6 +163,7 @@ export default function Home() {
           </Link>
         </div>
       </div>
+      <p className="font-bold text-center mb-4 text-xl text-slate-300">Made By: Muzammil Shaikh</p>
     </>
   );
 }
