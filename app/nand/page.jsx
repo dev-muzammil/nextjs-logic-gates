@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 
-const page = () => {
+const Nand = () => {
   const [data, setData] = useState({
     inputOne: "",
     inputTwo: "",
@@ -118,4 +118,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Nand;

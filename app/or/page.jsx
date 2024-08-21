@@ -1,7 +1,7 @@
 "use client";
 import React, { useState } from "react";
 
-const page = () => {
+const Or = () => {
   const [data, setData] = useState({
     inputOne: "",
     inputTwo: "",
@@ -117,4 +117,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Or;
