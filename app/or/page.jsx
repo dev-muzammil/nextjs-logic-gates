@@ -43,7 +43,7 @@ const Or = () => {
             </p>
             <ul className="list-disc font-semibold text-md sm:text-lg sm:mx-0 mx-4">
               <h1 className="text-xl sm:text-2xl font-bold">Functionality:</h1>
-              <li>The OR gate acts as a logical "or" operator.</li>
+              <li>The OR gate acts as a logical &quot;or&quot; operator.</li>
               <li>
                 It produces a high output (1) if any of its inputs are high (1).
                 (1).

@@ -44,7 +44,7 @@ const And = () => {
             </p>
             <ul className="list-disc font-semibold text-md sm:text-lg sm:mx-0 mx-4">
               <h1 className="text-xl sm:text-2xl font-bold">Functionality:</h1>
-              <li>The AND gate acts as a logical "and" operator.</li>
+              <li>The AND gate acts as a logical &quot;and&quot; operator.</li>
               <li>
                 It requires all inputs to be true (1) for the output to be true
                 (1).
